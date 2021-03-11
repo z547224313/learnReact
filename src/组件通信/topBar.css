@@ -1,0 +1,10 @@
+.topBar{
+    display: flex;
+}
+.topBar-item{
+    flex: 1;
+    text-align: center;
+}
+.topBar-item.active{
+    color: red;
+}

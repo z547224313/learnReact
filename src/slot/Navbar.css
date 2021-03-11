@@ -1,0 +1,18 @@
+.left{
+    width: 50px;
+    height: 44px;
+    background-color: #bfa;
+}
+.right{
+    width: 50px;
+    height: 44px;
+    background-color: red;
+}
+.navbar{
+    display: flex;
+}
+.middle{
+    height: 44px;
+    flex: 1;
+    background-color: yellow;
+}
